@@ -1,0 +1,141 @@
+#title{
+    background-color: #9e2a2b;
+    padding: 4% 8%;
+   
+
+}
+.title-pic{
+    width: 500px;
+}
+.container-fluid{
+    padding: 2% 5% 3%;
+}
+h1{
+    font-family: "Montserrat-Bold", sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white;
+    margin-top: 40px;
+    width: 100%;
+    margin-left: 20px;
+}
+#features{
+    background-color: white;
+    padding: 6% 10%;
+    text-align: center;
+}
+.hygenic{
+    text-align: center;
+    padding: 5%;
+}
+.icon{
+    color: #c1121f;
+    margin-bottom: 15px;
+}
+.icon:hover{
+    color: #9e2a2b;
+}
+
+
+.top-button{
+    margin-left: 20px;
+    margin-top: 25px;
+}
+.copyright{
+    text-align: center;
+    padding: 3%;
+}
+.discover{
+    background-color: #9e2a2b;
+    text-align: center;
+    padding: 5% 10%;
+}
+.contact{
+    margin-top: 20px;
+}
+#testimonials{
+    background-color: #9e2a2b;
+    text-align: center;
+    padding: 8% 10%;
+
+}
+.testimonial-text{
+    color: #fff;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+#menu{
+    text-align: center;
+    padding: 3% 7%;
+}
+.menu-heading{
+    color: #9e2a2b;
+    width: 96%;
+    margin-bottom: 20px;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #9e2a2b;
+    border-width: 5px;
+    width: 3%;
+    height: 0%;
+}
+.zinger{
+    width: 165px;
+   
+    margin-bottom: 10px;
+
+}
+.double{
+    width: 158px;
+    margin-top: 9px;
+
+}
+.beef{
+    width: 186px;
+}
+.chicken{
+    width: 180px;
+}
+.wing{
+    width: 180px;
+
+}
+.nugget{
+    width: 180px;
+}
+.ord{
+    margin-bottom: 50px;
+}
+.chicken-section{
+    margin-top: 15px;
+}
+.discover-h3{
+    color: #fff;
+}
+.Pepsi{
+    width: 141px;
+}
+.Sprite{
+    width: 180px;
+}
+.Fanta{
+    width: 180px;
+}
+.social{
+    margin-left: 20px;
+}
+@media (max-width: 900px){
+    #title{
+        text-align: center;
+
+    }
+    h1{
+        font-size: 2.5rem;
+    }
+    .title-pic{
+       margin-right: 80px;
+    }
+}
